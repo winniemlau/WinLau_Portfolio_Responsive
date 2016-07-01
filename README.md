@@ -1,5 +1,5 @@
 #Responsive Portfolio
-###Objectives
+###Objective
 
 * Make the standard portfolio site responsive
 
@@ -12,4 +12,4 @@
 
 ###Deployed App
 
-wl-responsive-portfolio.herokuapp.com
+Heroku: https://wl-responsive-portfolio.herokuapp.com
