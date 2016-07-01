@@ -1,7 +1,7 @@
 #Responsive Portfolio
 ###Objective
 
-* Make the standard portfolio site responsive
+* Make a standard portfolio site responsive
 
 ###Technologies Used
 
