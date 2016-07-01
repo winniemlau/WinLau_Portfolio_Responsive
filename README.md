@@ -1,15 +1,15 @@
 #Responsive Portfolio
-Objectives
+###Objectives
 
-Make the standard portfolio site responsive
+* Make the standard portfolio site responsive
 
-Technologies Used
+###Technologies Used
 
-HTML
-CSS
-Responsive Design
-Media Queries
+* HTML
+* CSS
+* Responsive Design
+* Media Queries
 
-Deployed App
+###Deployed App
 
 wl-responsive-portfolio.herokuapp.com
